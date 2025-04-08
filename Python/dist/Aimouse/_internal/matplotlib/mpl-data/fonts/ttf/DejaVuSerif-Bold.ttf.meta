@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 4c6f8a49edd240e4caf82517c54e2576
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DejaVu Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b9e1a67525437043bc9f1d20c5cfa40, type: 3}
+  - {fileID: 12800000, guid: 93f2a6bebc8df0345922d0483f67cd45, type: 3}
+  - {fileID: 12800000, guid: a8376b52f3101de4f9ca880e036014be, type: 3}
+  - {fileID: 12800000, guid: c0a0871149f31f741bbd3609d27e0c66, type: 3}
+  - {fileID: 12800000, guid: cb7f48576d9d0b64bb3bbfae04627950, type: 3}
+  - {fileID: 12800000, guid: eac25ee03baf1d54b8d29b4f6cadf166, type: 3}
+  - {fileID: 12800000, guid: f390e10fcd01498489e78d9d81bd76d2, type: 3}
+  - {fileID: 12800000, guid: 8bba384d4c31ad8479f38163b5011597, type: 3}
+  - {fileID: 12800000, guid: 9464f1cad7a7e184298d3790126f2773, type: 3}
+  - {fileID: 12800000, guid: b68c102d4a4223a489caed4687ac2a57, type: 3}
+  - {fileID: 12800000, guid: 4a91daa90cf069a4eb05965bc1c959d2, type: 3}
+  - {fileID: 12800000, guid: 758e97572cbae0f45a3a5e12d1d18c17, type: 3}
+  - {fileID: 12800000, guid: e85af87fd7d0a0945b9c4c5920719b2a, type: 3}
+  - {fileID: 12800000, guid: 58fbcdc2dde9632448a0f8515a33289e, type: 3}
+  - {fileID: 12800000, guid: ce1610182a62fb74bbd95cbaf12e9490, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

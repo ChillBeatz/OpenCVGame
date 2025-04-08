@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c49d8b4543958b4488791ef0604a43db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - cmsy10
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32bd19635842b00468ca076e0b679606, type: 3}
+  - {fileID: 12800000, guid: 62ce2460f4e2ca746b04fe2107b48099, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
